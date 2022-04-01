@@ -15,7 +15,7 @@ I leaped into action and started learning PHP and MySQL with JQuery. Today I'm w
 
 ## 🛠️ Languages and tools
 
-<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
+<img align="right" alt="GIF" src="./programmer.gif" width="350" />
 
 ##### Web Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
