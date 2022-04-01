@@ -1,5 +1,12 @@
 <img src="./img/banner.png"></img>
 
+
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+My Name is Seto Korekiyo, I'm a Japan web and blockchain developer.
+I started as a web developer back in 2017 when I graduated at universtiy of kyoto.
+I leaped into action and started learning PHP and MySQL with JQuery. Today I'm working on lots of different side project mainly using JavaScript.
+
+
 <p align="center"><a href="https://app.daily.dev/Seto0125"><img src="https://github.com/Seto0125/Seto0125/blob/main/devcard.svg" width="400" alt="Top Dev's Dev Card"/></a>
 </p>
 <p align="center">
