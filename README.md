@@ -57,8 +57,3 @@ I leaped into action and started learning PHP and MySQL with JQuery. Today I'm w
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></code>
 <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></code>
 
-
-<br /><br /><br /><br />
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ILostMyMedic&theme=tokyonight_duo&hide_border=true" alt="ilostmymedic" /></p>
