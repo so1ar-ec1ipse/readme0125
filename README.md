@@ -6,8 +6,6 @@ My Name is Seto Korekiyo, I'm a Japan web and blockchain developer.
 I started as a web developer back in 2017 when I graduated at universtiy of kyoto.
 I leaped into action and started learning PHP and MySQL with JQuery. Today I'm working on lots of different side project mainly using JavaScript.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Seto0125&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <p align="center"><a href="https://app.daily.dev/Seto0125"><img src="https://github.com/Seto0125/Seto0125/blob/main/devcard.svg" width="400" alt="Top Dev's Dev Card"/></a>
 </p>
 <p align="center">
