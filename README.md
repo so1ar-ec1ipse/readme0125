@@ -2,7 +2,7 @@
 
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My Name is Seto Korekiyo, I'm a Japan web and blockchain developer.
+My name is Seto Korekiyo, I'm a Japan web and blockchain developer.
 I started as a web developer back in 2014 when I graduated at universtiy of Tokushima.
 I leaped into action and started learning PHP and MySQL with JQuery. Today I'm working on lots of different side project mainly using JavaScript.
 
