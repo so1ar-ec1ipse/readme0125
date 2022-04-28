@@ -1,4 +1,4 @@
-<img src="./img/4.gif"></img>
+<img src="./img/3.jpg" width="100%" height="auto"></img>
 
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
