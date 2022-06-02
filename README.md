@@ -20,7 +20,6 @@ I leaped into action and started learning PHP and MySQL with JQuery. Today I'm w
 <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/></code>
-
 ##### App Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></code>
